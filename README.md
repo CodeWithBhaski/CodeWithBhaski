@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I am currently working on<br>
-Enterprise-level Power Platform Governance frameworks, scalable environment strategies, automated compliance monitoring, and ALM-driven deployment pipelinesbr><br>
+Enterprise-level Power Platform Governance frameworks, scalable environment strategies, automated compliance monitoring, and ALM-driven deployment pipelines<br>
 
 🌱 I am currently learning<br>
 Advancing my skills in Fabric Analytics and exploring the capabilities of Copilot Studio to integrate AI-driven insights into low-code solutions.<br>
